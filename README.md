@@ -1,7 +1,8 @@
 # awesome-sde-id-blogs
+
 Daftar blog keren dari para pegiat software engineering di Indonesia
 
-g## Navigasi Berdasar Abjad
+## Navigasi Berdasar Abjad
 
 + [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f),
 + [G](#g), [H](#h), [I](#i), [J](#j), [K](#k), [L](#l),
@@ -17,3 +18,13 @@ g## Navigasi Berdasar Abjad
 + Terima kasih untuk kontribusinya, dan semoga bermanfaat...
 
 ## A
+
++ 
+
+## B
+
++ 
+
+-----
+
+Copyright © 2018

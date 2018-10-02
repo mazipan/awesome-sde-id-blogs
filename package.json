@@ -1,0 +1,19 @@
+{
+  "name": "awesome-sde-id-blogs",
+  "version": "1.0.0",
+  "description": "Daftar blog keren dari para pegiat software engineering di Indonesia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazipan/awesome-sde-id-blogs.git"
+  },
+  "author": "Irfan Maulana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazipan/awesome-sde-id-blogs/issues"
+  },
+  "homepage": "https://github.com/mazipan/awesome-sde-id-blogs#readme"
+}

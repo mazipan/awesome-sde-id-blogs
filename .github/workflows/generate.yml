@@ -1,0 +1,42 @@
+name: Generate JSON
+
+on:
+  push:
+    branches:
+      - 'main'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build-manual:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Print commit id, message and tag
+        run: |
+          git show -s --format='%h %s'
+          echo "github.ref -> {{ github.ref }}"
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run script to generate JSON
+        run: npm run generate
+
+      - name: Commit & Push
+        run: |
+          git config user.name mazipan
+          git config user.email mazipanneh@gmail.com
+          git add -A .
+          git commit -m "CHORE: 🐒 Auto generate JSON"
+          git push

@@ -2,9 +2,11 @@
   "name": "awesome-sde-id-blogs",
   "version": "1.0.0",
   "description": "Daftar blog keren dari para pegiat software engineering di Indonesia",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node ./parser.js"
   },
   "repository": {
     "type": "git",

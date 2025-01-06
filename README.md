@@ -64,7 +64,7 @@ Daftar blog keren dari para pegiat software engineering di Indonesia
 
 ## G
 
-+ [gading.dev](https://gading.dev/id) by [Sutan Gading Fadhillah Nasution](https://github.com/gadingnst)
++ [gading.dev](https://gading.dev/id) by [Sutan Gading](https://github.com/gadingnst)
 + [ghora.net](https://ghora.net/) by [Aria Ghora Prabono](https://github.com/ariaghora)
 
 [Back to top](#navigasi-berdasar-abjad)
@@ -90,7 +90,7 @@ Daftar blog keren dari para pegiat software engineering di Indonesia
 
 + [jackyef.com](https://jackyef.com/) by [Jacky Efendi](https://x.com/jackyef__)
 + [jafaraziz.com](https://jafaraziz.com/) by [Jafar Aziz](https://x.com/jfrAziz)
-+ [jurnalanas.com](https://www.jurnalanas.com/) by [Anas Muhammad Nasrurrohman](https://x.com/oianas_)
++ [jurnalanas.com](https://www.jurnalanas.com/) by [Anas](https://x.com/oianas_)
 
 [Back to top](#navigasi-berdasar-abjad)
 
@@ -165,7 +165,7 @@ Daftar blog keren dari para pegiat software engineering di Indonesia
 
 + [taufiqseptryana.com](https://taufiqseptryana.com/) by [Taufiq Septryana](https://x.com/qepo_s)
 + [theodorusclarence.com](https://theodorusclarence.com/) by [Theodorus Clarence](https://x.com/th_clarence)
-+ [The 10% Engineer](https://newsletter.lwastuargo.com/) by [Listiarso Wastuargo (Gogo)](https://x.com/lwastuargo)
++ [The 10% Engineer](https://newsletter.lwastuargo.com/) by [Gogo](https://x.com/lwastuargo)
 
 [Back to top](#navigasi-berdasar-abjad)
 
@@ -208,7 +208,7 @@ Daftar blog keren dari para pegiat software engineering di Indonesia
 ## Z
 
 + [zainfathoni.com](https://www.zainfathoni.com/) by [Zain Fathoni](https://x.com/zainfathoni)
-+ [zakiego.com](https://zakiego.com/) by [M. Zakiyuddin Munziri (Zakiego)](https://x.com/zakiego)
++ [zakiego.com](https://zakiego.com/) by [Zakiego](https://x.com/zakiego)
 
 [Back to top](#navigasi-berdasar-abjad)
 

@@ -22,15 +22,15 @@ Daftar blog keren dari para pegiat software engineering di Indonesia
 
 ## A
 
-+ [agustinusnathaniel.com](https://agustinusnathaniel.com/) By Agustinus Nathaniel
-+ [ahmadrosid.com](https://ahmadrosid.com/) By Ahmad Rosid
++ [agustinusnathaniel.com](https://agustinusnathaniel.com/) by Agustinus Nathaniel
++ [ahmadrosid.com](https://ahmadrosid.com/) by Ahmad Rosid
 
 [Back to top](#navigasi-berdasar-abjad)
 
 ## B
 
-+ [blog.cerita-faldi.xyz](https://blog.cerita-faldi.xyz/) By Naufaldi Rafif S
-+ [bryanprim.us](https://bryanprim.us/) By Bryan Lumbantobing
++ [blog.cerita-faldi.xyz](https://blog.cerita-faldi.xyz/) by Naufaldi Rafif S
++ [bryanprim.us](https://bryanprim.us/) by Bryan Lumbantobing
 
 [Back to top](#navigasi-berdasar-abjad)
 
@@ -57,40 +57,40 @@ Daftar blog keren dari para pegiat software engineering di Indonesia
 
 ## F
 
-+ [fatihkalifa.com](https://fatihkalifa.com/en) By Fatih Kalifa
++ [fatihkalifa.com](https://fatihkalifa.com/en) by Fatih Kalifa
 
 [Back to top](#navigasi-berdasar-abjad)
 
 
 ## G
 
-+ [gading.dev](https://gading.dev/id) By Sutan Gading Fadhillah Nasution
-+ [ghora.net](https://ghora.net/) By Aria Ghora Prabono
++ [gading.dev](https://gading.dev/id) by Sutan Gading Fadhillah Nasution
++ [ghora.net](https://ghora.net/) by Aria Ghora Prabono
 
 [Back to top](#navigasi-berdasar-abjad)
 
 
 ## H
 
-+ [helmisatria.com](https://helmisatria.com/) By Helmi Satria
++ [helmisatria.com](https://helmisatria.com/) by Helmi Satria
 
 [Back to top](#navigasi-berdasar-abjad)
 
 
 ## I
 
-+ [ibam.id](https://ibam.id/) By Ibrahim Arief
-+ [imrenagi.com](https://imrenagi.com/) By Imre Nagi
-+ [indrazm.com](https://www.indrazm.com/) By Indra Zulfi
++ [ibam.id](https://ibam.id/) by Ibrahim Arief
++ [imrenagi.com](https://imrenagi.com/) by Imre Nagi
++ [indrazm.com](https://www.indrazm.com/) by Indra Zulfi
 
 [Back to top](#navigasi-berdasar-abjad)
 
 
 ## J
 
-+ [jackyef.com](https://jackyef.com/) By Jacky Efendi
-+ [jafaraziz.com](https://jafaraziz.com/) By Jafar Aziz
-+ [jurnalanas.com](https://www.jurnalanas.com/) By Anas Muhammad Nasrurrohman
++ [jackyef.com](https://jackyef.com/) by Jacky Efendi
++ [jafaraziz.com](https://jafaraziz.com/) by Jafar Aziz
++ [jurnalanas.com](https://www.jurnalanas.com/) by Anas Muhammad Nasrurrohman
 
 [Back to top](#navigasi-berdasar-abjad)
 
@@ -111,14 +111,14 @@ Daftar blog keren dari para pegiat software engineering di Indonesia
 
 ## M
 
-+ [mazipan.space](https://www.mazipan.space/) - By Irfan Maulana
++ [mazipan.space](https://www.mazipan.space/) - by Irfan Maulana
 
 [Back to top](#navigasi-berdasar-abjad)
 
 
 ## N
 
-+ [nayakayoga.com](https://nayakayoga.com/id) By Nayaka Yoga Pradipta
++ [nayakayoga.com](https://nayakayoga.com/id) by Nayaka Yoga Pradipta
 
 [Back to top](#navigasi-berdasar-abjad)
 
@@ -131,7 +131,8 @@ Daftar blog keren dari para pegiat software engineering di Indonesia
 
 ## P
 
-+ [panjigautama.com](https://panjigautama.com/) By Panji Gautama
++ [panjigautama.com](https://panjigautama.com/) by Panji Gautama
++ [praditautama.com](https://www.praditautama.com/) by Pradita Utama
 
 [Back to top](#navigasi-berdasar-abjad)
 
@@ -145,25 +146,25 @@ Daftar blog keren dari para pegiat software engineering di Indonesia
 
 ## R
 
-+ [rin.rocks](https://www.rin.rocks/) By r17x
-+ [rivki.dev](https://rivki.dev/) By Muhammad Rivki
++ [rin.rocks](https://www.rin.rocks/) by r17x
++ [rivki.dev](https://rivki.dev/) by Muhammad Rivki
 
 [Back to top](#navigasi-berdasar-abjad)
 
 
 ## S
 
-+ [sarbeh.com](https://www.sarbeh.com/) By Ibrahim Nurul Huda
-+ [sonnylab.com](https://sonnylab.com/) By Sonny Lazuardi
++ [sarbeh.com](https://www.sarbeh.com/) by Ibrahim Nurul Huda
++ [sonnylab.com](https://sonnylab.com/) by Sonny Lazuardi
 
 [Back to top](#navigasi-berdasar-abjad)
 
 
 ## T
 
-+ [taufiqseptryana.com](https://taufiqseptryana.com/) By Taufiq Septryana
-+ [theodorusclarence.com](https://theodorusclarence.com/) By Theodorus Clarence
-+ [The 10% Engineer](https://newsletter.lwastuargo.com/) By Listiarso Wastuargo (Gogo)
++ [taufiqseptryana.com](https://taufiqseptryana.com/) by Taufiq Septryana
++ [theodorusclarence.com](https://theodorusclarence.com/) by Theodorus Clarence
++ [The 10% Engineer](https://newsletter.lwastuargo.com/) by Listiarso Wastuargo (Gogo)
 
 [Back to top](#navigasi-berdasar-abjad)
 
@@ -198,15 +199,15 @@ Daftar blog keren dari para pegiat software engineering di Indonesia
 
 ## Y
 
-+ [yehezgun.com](https://yehezgun.com/) By Yehezkiel Gunawan
++ [yehezgun.com](https://yehezgun.com/) by Yehezkiel Gunawan
 
 [Back to top](#navigasi-berdasar-abjad)
 
 
 ## Z
 
-+ [zainfathoni.com](https://www.zainfathoni.com/) By Zain Fathoni
-+ [zakiego.com](https://zakiego.com/) By M. Zakiyuddin Munziri (Zakiego)
++ [zainfathoni.com](https://www.zainfathoni.com/) by Zain Fathoni
++ [zakiego.com](https://zakiego.com/) by M. Zakiyuddin Munziri (Zakiego)
 
 [Back to top](#navigasi-berdasar-abjad)
 

@@ -111,7 +111,7 @@ Daftar blog keren dari para pegiat software engineering di Indonesia
 
 ## M
 
-+ [mazipan.space](https://www.mazipan.space/) - by [Irfan Maulana](https://github.com/mazipan)
++ [mazipan.space](https://www.mazipan.space/) by [Irfan Maulana](https://github.com/mazipan)
 
 [Back to top](#navigasi-berdasar-abjad)
 

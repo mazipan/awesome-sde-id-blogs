@@ -156,6 +156,7 @@ Daftar blog keren dari para pegiat software engineering di Indonesia
 
 + [sarbeh.com](https://www.sarbeh.com/) by [Ibrahim Nurul Huda](https://x.com/sarbeh_)
 + [sonnylab.com](https://sonnylab.com/) by [Sonny Lazuardi](https://x.com/sonnylazuardi)
++ [santrikoding.com](https://santrikoding.com/) by [Fika Ridaul Maulayya](https://github.com/maulayyacyber)
 
 [Back to top](#navigasi-berdasar-abjad)
 

@@ -1,4 +1,8 @@
-{
+
+/**
+ * @type {import("./types").AwesomeSdeBlogs}
+ */
+export const awesomeSdeBlogs = {
   "data": [
     {
       "blog": {

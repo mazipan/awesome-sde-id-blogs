@@ -66,7 +66,13 @@ async function parse() {
       source: 'https://github.com/mazipan/awesome-sde-id-blogs',
     }
   }
+
   writeFileSync('./generated/data.json', JSON.stringify(json, false, 2));
+  writeFileSync('./generated/data.js', `
+/**
+ * @type {import("./types").AwesomeSdeBlogs}
+ */
+export const awesomeSdeBlogs = ${JSON.stringify(json, false, 2)}`);
 }
 
 // IIFE

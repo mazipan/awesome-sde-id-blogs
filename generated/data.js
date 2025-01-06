@@ -194,6 +194,18 @@ export const awesomeSdeBlogs = {
     },
     {
       "blog": {
+        "name": "tombolajaib.com",
+        "link": "https://tombolajaib.com/"
+      },
+      "owner": {
+        "name": "Muhammad Rahman",
+        "link": "https://github.com/puyup",
+        "icon": "github",
+        "avatar": "https://unavatar.io/github/puyup"
+      }
+    },
+    {
+      "blog": {
         "name": "nayakayoga.com",
         "link": "https://nayakayoga.com/id"
       },

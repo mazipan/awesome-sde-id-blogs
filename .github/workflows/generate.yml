@@ -5,8 +5,8 @@ on:
     branches:
       - 'master'
     paths:
-      - README.md
-      - !generated/**
+      - 'README.md'
+      - '!generated/**'
 
   workflow_dispatch:
 

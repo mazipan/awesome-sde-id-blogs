@@ -244,6 +244,17 @@
     },
     {
       "blog": {
+        "name": "santrikoding.com",
+        "link": "https://santrikoding.com/"
+      },
+      "owner": {
+        "name": "Fika Ridaul Maulayya",
+        "link": "https://github.com/maulayyacyber",
+        "avatar": "https://unavatar.io/github/maulayyacyber"
+      }
+    },
+    {
+      "blog": {
         "name": "taufiqseptryana.com",
         "link": "https://taufiqseptryana.com/"
       },
@@ -310,8 +321,8 @@
     }
   ],
   "metadata": {
-    "total": 28,
-    "updatedAt": "2025-01-06T03:51:06.916Z",
+    "total": 29,
+    "updatedAt": "2025-01-06T03:55:30.018Z",
     "source": "https://github.com/mazipan/awesome-sde-id-blogs"
   }
 }

@@ -3,7 +3,7 @@ name: Generate JSON
 on:
   push:
     branches:
-      - 'main'
+      - 'master'
   workflow_dispatch:
 
 permissions:
@@ -33,10 +33,15 @@ jobs:
       - name: Run script to generate JSON
         run: npm run generate
 
-      - name: Commit & Push
+      - name: Commit
         run: |
           git config user.name mazipan
           git config user.email mazipanneh@gmail.com
           git add -A .
           git commit -m "CHORE: 🐒 Auto generate JSON"
-          git push
+
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          directory: "."
+          github_token: ${{ secrets.GITHUB_TOKEN }}

@@ -23,6 +23,7 @@ Daftar blog keren dari para pegiat software engineering di Indonesia
 ## A
 
 + [agustinusnathaniel.com](https://agustinusnathaniel.com/) By Agustinus Nathaniel
++ [ahmadrosid.com](https://ahmadrosid.com/) By Ahmad Rosid
 
 [Back to top](#navigasi-berdasar-abjad)
 
@@ -71,7 +72,7 @@ Daftar blog keren dari para pegiat software engineering di Indonesia
 
 ## H
 
-+ 
++ [helmisatria.com](https://helmisatria.com/) By Helmi Satria
 
 [Back to top](#navigasi-berdasar-abjad)
 
@@ -145,6 +146,7 @@ Daftar blog keren dari para pegiat software engineering di Indonesia
 ## R
 
 + [rin.rocks](https://www.rin.rocks/) By r17x
++ [rivki.dev](https://rivki.dev/) By Muhammad Rivki
 
 [Back to top](#navigasi-berdasar-abjad)
 

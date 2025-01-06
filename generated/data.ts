@@ -380,7 +380,7 @@ export const awesomeSdeBlogs: AwesomeSdeBlogs = {
   ],
   "metadata": {
     "total": 29,
-    "updatedAt": "2025-01-06T07:08:36.232Z",
+    "updatedAt": "2025-01-06T07:24:12.387Z",
     "source": "https://github.com/mazipan/awesome-sde-id-blogs"
   }
 }

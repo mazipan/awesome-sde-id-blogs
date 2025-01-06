@@ -43,7 +43,7 @@ Daftar blog keren dari para pegiat software engineering di Indonesia
 
 ## D
 
-+ 
++ [didiktrisusanto.dev](https://www.didiktrisusanto.dev/) by [Didik Tri Susanto](https://x.com/didikz)
 
 [Back to top](#navigasi-berdasar-abjad)
 

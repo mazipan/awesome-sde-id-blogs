@@ -49,6 +49,7 @@ async function parse() {
         owner: {
           name: matchOwnerName[0].replace(REGEX_REPLACER, ''),
           link: link,
+          icon: typeOfLink,
           avatar: `https://unavatar.io/${typeOfLink}/${uname}`,
         },
       });
@@ -81,6 +82,7 @@ type BlogItem = {
 type Owner = {
   name: string
   link: string
+  icon: 'github' | 'x' | 'unknown'
   avatar: string
 }
 

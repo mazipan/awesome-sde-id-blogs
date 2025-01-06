@@ -14,11 +14,11 @@ Daftar blog keren dari para pegiat software engineering di Indonesia
 
 ## Cara Untuk Menambahkan Daftar Baru
 
-+ Fork repo ini, dan buat branch baru (jangan pake branch `master` ya...)
-+ PR ke branch master dari repo ini
-+ Pastikan daftar yang ditambahkan sudah diurutkan berdasarkan Abjad (*alphabet*) dari namanya
-+ Formatnya agar diseragamkan dengan yang lain
-+ Terima kasih untuk kontribusinya, dan semoga bermanfaat...
++ Fork repo ini, dan buat branch baru (jangan dibiasakan langsung ngoding di branch `master` ya).
++ Pastikan daftar yang ditambahkan sudah diurutkan berdasarkan Abjad.
++ Formatnya agar diseragamkan dengan yang lain.
++ Buat pull request ke branch master di repo ini.
++ Terima kasih untuk kontribusinya, dan semoga bermanfaat.
 
 ## A
 

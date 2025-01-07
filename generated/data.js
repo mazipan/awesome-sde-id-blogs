@@ -110,6 +110,18 @@ export const awesomeSdeBlogs = {
     },
     {
       "blog": {
+        "name": "hilman.space",
+        "link": "https://hilman.space/"
+      },
+      "owner": {
+        "name": "Hilman Ramadhan",
+        "link": "https://x.com/hilmanski",
+        "icon": "x",
+        "avatar": "https://unavatar.io/x/hilmanski"
+      }
+    },
+    {
+      "blog": {
         "name": "ibam.id",
         "link": "https://ibam.id/"
       },
@@ -362,8 +374,8 @@ export const awesomeSdeBlogs = {
     }
   ],
   "metadata": {
-    "total": 30,
-    "updatedAt": "2025-01-06T08:50:13.994Z",
+    "total": 31,
+    "updatedAt": "2025-01-07T06:13:57.845Z",
     "source": "https://github.com/mazipan/awesome-sde-id-blogs"
   }
 }
